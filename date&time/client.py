@@ -1,4 +1,3 @@
-#from http import client
 from socket import *
 import datetime
 import time
@@ -12,4 +11,4 @@ ping = "ping"
 
 print("Date of sending request by client is : " + str(datetime.datetime.now()))
 
-start_time=time.time()
+#start_time=time.time()
