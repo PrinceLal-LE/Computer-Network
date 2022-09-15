@@ -10,5 +10,3 @@ clientSocket = socket(AF_INET,SOCK_STREAM)
 ping = "ping"
 
 print("Date of sending request by client is : " + str(datetime.datetime.now()))
-
-#start_time=time.time()
